@@ -9,7 +9,7 @@ export default [
         title: 'Movie Theatre Web Application',
         imgUrl: '/assets/movie-theatre.jpg',
         stack: ['java', 'xhtml', 'css', 'javaserver faces'],
-        link: ''
+        link: 'https://github.com/zZestyy/Movie-Theatre-WebApp'
     },
     {
         title: 'Simple Python Chatbot using NLP',
