@@ -5,7 +5,7 @@ function PortfolioItem({title, imgUrl, stack, link}) {
         <div className="border-2 border-stone-900 rounded-md overflow-hidden">
             <img 
                 src={imgUrl}
-                alt="portfolio"
+                alt="portfolio_img"
                 className="w-full h-36 md:h-48 object-cover cursor-pointer"
             />
             <div className="w-full p-4">
