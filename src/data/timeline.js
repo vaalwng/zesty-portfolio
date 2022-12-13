@@ -7,9 +7,9 @@ export default [
     },
     {
         year: 'Jan 2022',
-        title: 'Software Developer at Ayoka Systems',
+        title: 'Software Developer Intern at Ayoka Systems',
         duration: '4 months',
-        details: 'C# application development'
+        details: 'Application developer. c#, cshmtl, & js'
     },
     {
         year: 'Dec 2021',
@@ -19,8 +19,8 @@ export default [
     },
     {
         year: 'Spring 2015',
-        title: 'first exposure to computer science',
+        title: 'first exposure to coding',
         duration: '2 semesters',
-        details: 'Engineering Robotics at Frisco ISD CTE Center'
+        details: 'Engineering Robotics at Frisco ISD CTE Center. Team Project.'
     }
 ]
