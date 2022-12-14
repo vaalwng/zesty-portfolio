@@ -1,6 +1,6 @@
 export default [
     {
-        title: 'Portfolio Website',
+        title: 'Minimalistic Portfolio Website',
         imgUrl: '/assets/dev-portfolio.jpg',
         stack: ['react', 'tailwindcss', 'vite'],
         link: 'https://github.com/zZestyy/zesty-portfolio/tree/development'
@@ -23,10 +23,10 @@ export default [
         stack: ['R', 'c++', 'python', 'scikit-learn', 'pandas', 'matplotlib', 'seaborn', 'numpy'],
         link: 'https://github.com/zZestyy/machine-learning'
     },
-    {
-        title: '',
-        imgUrl: '',
-        stack: [''],
-        link: ''
-    }
+    // {
+    //     title: '',
+    //     imgUrl: '',
+    //     stack: [''],
+    //     link: ''
+    // }
 ]
